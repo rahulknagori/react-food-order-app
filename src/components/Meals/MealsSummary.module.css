@@ -1,0 +1,11 @@
+.meals {
+  display: flex;
+  flex-direction: column;
+  width: 40rem;
+  margin: 0 auto;
+  align-items: center;
+  margin-top: -10rem;
+  position: relative;
+  z-index: 14;
+  background-color: rgb(42, 40, 40);
+}

@@ -1,0 +1,29 @@
+.amount {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.amount p {
+  font-weight: 700;
+}
+
+.modalCartBtn {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.closeBtn {
+  background-color: white;
+  border: 1px solid rgb(115, 19, 19);
+}
+
+.orderBtn {
+  background-color: rgb(115, 19, 19);
+  color: white;
+  border: none;
+}
+.itemName {
+  background-color: rgb(170, 219, 227);
+  padding: 0.5rem 0;
+}

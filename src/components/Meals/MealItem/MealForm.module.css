@@ -1,0 +1,23 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  color: black;
+}
+
+.formBtn {
+  color: white;
+  padding: 0.4rem;
+  background-color: rgb(221, 52, 43);
+  border-radius: 1rem;
+  width: 5rem;
+  margin-top: 0.5rem;
+  border: none;
+  margin-left: 2rem;
+  text-align: center;
+}
+
+.labelInput input {
+  width: 3rem;
+  padding: 0.1rem;
+  margin-left: 0.4rem;
+}
